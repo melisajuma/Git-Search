@@ -6,10 +6,10 @@ This is a git search application that is supposed to allow a user to search for 
 
 #### Author
 
- ****Melisa JUma***&trade; (15/07/2019)>>
+ ****Melisa JUma***&trade; (15/07/2019)
 
 ## Description
-
+>
 It enables a user to input username, view profile and either continue on github itself
  
 ## Development server
