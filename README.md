@@ -18,9 +18,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.>
 
-## Project live site>
+## Project live site
 
   This is the live .[ Click for the demo](https://github.com/melisajuma/Git-Search.git)
 
