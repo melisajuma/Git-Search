@@ -2,6 +2,8 @@
 /* @import "~bootstrap/dist/css/bootstrap.css" */
 
 body { 
-  background-image: url('https://images.pexels.com/photos/2647794/pexels-photo-2647794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-color:grey;
+  background-repeat: no-repeat;
+  display:cover;
   text-align: center;
   }
